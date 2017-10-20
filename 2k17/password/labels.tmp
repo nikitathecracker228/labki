@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>D:\AVR Studio\2k17\password</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVR Studio\2k17\password\password.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVR Studio\2k17\password\password.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\AVR Studio\2k17\password\password.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\AVR Studio\2k17\password\password.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>11</LINE></reset>
+  <loop_0><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>26</LINE></loop_0>
+  <loop_1><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>33</LINE></loop_1>
+  <loop_2><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>40</LINE></loop_2>
+  <loop_3><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>47</LINE></loop_3>
+  <blink><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>54</LINE></blink>
+  <long_delay><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>75</LINE></long_delay>
+  <delay><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>64</LINE></delay>
+  <delay_loop><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>68</LINE></delay_loop>
+  <long_delay_loop><FILE>D:\AVR Studio\2k17\password\password.asm</FILE><LINE>79</LINE></long_delay_loop>
+ </LABELS>
+</ASSEMBLER_INFO>

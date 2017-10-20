@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\labels.tmp" -fI -W+ie -C V2E -o "D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.hex" -d "D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.obj" -e "D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.eep" -m "D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.map" "D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm"

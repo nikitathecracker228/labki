@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>D:\AVR Studio\2k17\samkola51\freq</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVR Studio\2k17\samkola51\freq\freq.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\AVR Studio\2k17\samkola51\freq\freq.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\AVR Studio\2k17\samkola51\freq\freq.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>26</LINE></reset>
+  <loop><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>39</LINE></loop>
+  <clik_1><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>83</LINE></clik_1>
+  <clik_2><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>98</LINE></clik_2>
+  <clik_3><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>113</LINE></clik_3>
+  <clik_4><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>128</LINE></clik_4>
+  <clik_5><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>143</LINE></clik_5>
+  <clik_6><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>158</LINE></clik_6>
+  <clik_7><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>173</LINE></clik_7>
+  <clik_8><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>188</LINE></clik_8>
+  <clik_9><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>203</LINE></clik_9>
+  <loop_past_clik><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>70</LINE></loop_past_clik>
+  <change_dependency><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>243</LINE></change_dependency>
+  <stop_timer1><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>234</LINE></stop_timer1>
+  <init_timer1><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>218</LINE></init_timer1>
+  <dependency_2_to_4><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>253</LINE></dependency_2_to_4>
+  <dependency_4_to_2><FILE>D:\AVR Studio\2k17\samkola51\freq\freq.asm</FILE><LINE>260</LINE></dependency_4_to_2>
+ </LABELS>
+</ASSEMBLER_INFO>

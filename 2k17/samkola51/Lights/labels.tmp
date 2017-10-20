@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>D:\AVR Studio\2k17\samkola51\Lights</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>10</LINE></Reset>
+  <init_ports><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>163</LINE></init_ports>
+  <Loop><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>18</LINE></Loop>
+  <Test1><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>23</LINE></Test1>
+  <First><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>69</LINE></First>
+  <Second><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>80</LINE></Second>
+  <Third><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>90</LINE></Third>
+  <Test2><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>38</LINE></Test2>
+  <Fourth><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>101</LINE></Fourth>
+  <Fifth><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>111</LINE></Fifth>
+  <Sixth><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>121</LINE></Sixth>
+  <Test3><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>52</LINE></Test3>
+  <Seventh><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>132</LINE></Seventh>
+  <Eighth><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>143</LINE></Eighth>
+  <Ninth><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>154</LINE></Ninth>
+  <Firstt><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>75</LINE></Firstt>
+  <Secondd><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>86</LINE></Secondd>
+  <Thirdd><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>96</LINE></Thirdd>
+  <Fourthh><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>107</LINE></Fourthh>
+  <Fifthh><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>117</LINE></Fifthh>
+  <Sixthh><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>127</LINE></Sixthh>
+  <Seventhh><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>138</LINE></Seventhh>
+  <Eighthh><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>149</LINE></Eighthh>
+  <Ninthh><FILE>D:\AVR Studio\2k17\samkola51\Lights\Lights.asm</FILE><LINE>158</LINE></Ninthh>
+ </LABELS>
+</ASSEMBLER_INFO>

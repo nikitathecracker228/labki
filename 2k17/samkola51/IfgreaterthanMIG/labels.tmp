@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Reset><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>9</LINE></Reset>
+  <Loop><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>26</LINE></Loop>
+  <one><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>79</LINE></one>
+  <two><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>82</LINE></two>
+  <three><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>85</LINE></three>
+  <four><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>88</LINE></four>
+  <five><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>91</LINE></five>
+  <six><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>94</LINE></six>
+  <seven><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>97</LINE></seven>
+  <eight><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>100</LINE></eight>
+  <nine><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>103</LINE></nine>
+  <zero><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>106</LINE></zero>
+  <Numberi><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>110</LINE></Numberi>
+  <onei><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>163</LINE></onei>
+  <twoi><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>166</LINE></twoi>
+  <threei><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>169</LINE></threei>
+  <fouri><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>172</LINE></fouri>
+  <fivei><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>175</LINE></fivei>
+  <sixi><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>178</LINE></sixi>
+  <seveni><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>181</LINE></seveni>
+  <eighti><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>184</LINE></eighti>
+  <ninei><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>187</LINE></ninei>
+  <zeroi><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>190</LINE></zeroi>
+  <Compare><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>196</LINE></Compare>
+  <Resign><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>206</LINE></Resign>
+  <MIG><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>211</LINE></MIG>
+  <Long_delay><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>228</LINE></Long_delay>
+  <Long_delay_Loop><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>230</LINE></Long_delay_Loop>
+  <Delay><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>236</LINE></Delay>
+  <Delay_Loop><FILE>D:\AVR Studio\2k17\samkola51\IfgreaterthanMIG\IfgreaterthanMIG.asm</FILE><LINE>238</LINE></Delay_Loop>
+ </LABELS>
+</ASSEMBLER_INFO>
